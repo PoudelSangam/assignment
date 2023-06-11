@@ -1,0 +1,17 @@
+body{
+    background-color: #a2f3ff;
+}
+.btn:hover {
+ 
+    background-color: gray;
+   
+}
+.btn1{
+    background-color: #8A8888;
+    color: black;
+    height: 85px;
+    margin: auto;
+    width: -webkit-fill-available;
+    
+  
+  }
